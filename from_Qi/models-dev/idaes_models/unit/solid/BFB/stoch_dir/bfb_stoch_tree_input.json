@@ -1,0 +1,19 @@
+{
+    "Stages": ["FirstStage", "SecondStage"],
+    "StageVariables": {
+	"FirstStage": [
+	    "BFB.Lb",
+            "BFB.Dt",
+	    "BFB.dx",
+	    "BFB.lhx"
+	],
+	"SecondStage": [
+	    "BFB.Solid_In_F",
+            "BFB.HX_In_F"
+	]	
+    },
+    "StageCost": {
+	"FirstStage": "FirstStageCost",
+        "SecondStage": "SecondStageCost"
+    }
+}

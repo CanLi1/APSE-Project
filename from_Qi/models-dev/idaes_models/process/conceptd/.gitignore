@@ -1,0 +1,10 @@
+*.pyc
+.~lock.*
+*.ods
+*.lst
+*.sublime-project
+*.sublime-workspace
+*.pkl
+*/runs/*
+runs/*
+*/gams
