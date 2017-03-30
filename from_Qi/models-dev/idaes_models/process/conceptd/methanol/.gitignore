@@ -1,8 +1,0 @@
-*.sublime-workspace
-*.sublime-project
-*.pyc
-iter_results.csv
-.~lock.*
-*.ods
-*.lst
-run_results.csv
